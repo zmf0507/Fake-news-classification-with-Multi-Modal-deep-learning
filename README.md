@@ -1,5 +1,5 @@
 # Fake-news-classification-with-Mutli-Modal-deep-learning
-This repository implements the multi-modal deep learning arhcitecture published in [SpotFake: A Multi-modal Framework for Fake News Detection] (https://ieeexplore.ieee.org/abstract/document/8919302) on Medieval-2015 dataset
+This repository implements the multi-modal deep learning arhcitecture published in                                                                                       [SpotFake: A Multi-modal Framework for Fake News Detection](https://ieeexplore.ieee.org/abstract/document/8919302) on Medieval-2015 dataset
 
 ## Experiments
 1. Original Paper implementation
